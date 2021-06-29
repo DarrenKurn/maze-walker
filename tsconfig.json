@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "ES2020",
+        "esModuleInterop": true,
+        "allowJs": true
+    },
+   "exclude": ["node_modules"],
+   "files":["./src/js/app.ts"],
+}

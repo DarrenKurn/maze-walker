@@ -1,0 +1,1 @@
+($env:https="true") -and (npm run dev)
